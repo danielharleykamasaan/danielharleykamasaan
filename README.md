@@ -1,4 +1,4 @@
-# -danielharleykamasaan
+# danielharleykamasaan
 Personal GitHub Profile
 <!-- ====================================== -->
 <!-- DANIEL HARLEY KAMASAAN - GITHUB PROFILE -->
