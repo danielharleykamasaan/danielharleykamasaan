@@ -1,5 +1,3 @@
-# danielharleykamasaan
-Personal GitHub Profile
 <!-- ====================================== -->
 <!-- DANIEL HARLEY KAMASAAN - GITHUB PROFILE -->
 <!-- Minimalist + Colorful Developer Theme  -->
